@@ -6,8 +6,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- [Solution URL]()
-- [Live site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-6TO_vbB_Z_)
+- [Live site URL](https://devjky.github.io/frontendmentor-product-preview-card-component-challenge/)
 
 ### Built with
 
